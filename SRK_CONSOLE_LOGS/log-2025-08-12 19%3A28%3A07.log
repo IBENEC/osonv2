@@ -1,0 +1,53 @@
+RENDSZERIDŐ: Tue Aug 12 19:27:45 CEST 2025
+ 
+ 
+----------------
+Rendszer: 
+Debian GNU/Linux 11 (bullseye)
+Pontos idő: 
+2025-08-12 19:27:45
+ 
+Fájl / mappaméretek:
+663M	node_modules
+300K	components
+212K	package-lock.json
+68K	app
+32K	public
+----------------
+ 
+ 
+v24.5.0 is already installed.
+Now using node v24.5.0 (npm v11.5.1)
+
+up to date, audited 472 packages in 2s
+
+73 packages are looking for funding
+  run `npm fund` for details
+
+found [32m[1m0[22m[39m vulnerabilities
+[1mnpm[22m [33mwarn[39m [94musing --force[39m Recommended protections disabled.
+[1G[0K-----------------------------
+A következő csomagok kerülnek feltelepítésre:
+install
+-----------------------------
+
+up to date, audited 472 packages in 3s
+
+73 packages are looking for funding
+  run `npm fund` for details
+
+found [32m[1m0[22m[39m vulnerabilities
+-----------------------------
+A következő parancs fog lefutni:
+start
+-----------------------------
+
+> my-v0-project@0.1.0 start
+> next start -p 9305
+
+[1G[0K   [1m[38;2;173;127;168m▲ Next.js 15.2.4[39m[22m
+   - Local:        http://localhost:9305
+   - Network:      http://172.18.0.76:9305
+
+ [32m[1m✓[22m[39m Starting...
+ [32m[1m✓[22m[39m Ready in 519ms

@@ -1,0 +1,101 @@
+RENDSZERIDŐ: Tue Aug 12 19:28:08 CEST 2025
+ 
+ 
+----------------
+Rendszer: 
+Debian GNU/Linux 11 (bullseye)
+Pontos idő: 
+2025-08-12 19:28:09
+ 
+Fájl / mappaméretek:
+663M	node_modules
+300K	components
+212K	package-lock.json
+68K	app
+32K	public
+----------------
+ 
+ 
+v24.5.0 is already installed.
+Now using node v24.5.0 (npm v11.5.1)
+
+up to date, audited 472 packages in 2s
+
+73 packages are looking for funding
+  run `npm fund` for details
+
+found [32m[1m0[22m[39m vulnerabilities
+[1mnpm[22m [33mwarn[39m [94musing --force[39m Recommended protections disabled.
+[1G[0K-----------------------------
+A következő csomagok kerülnek feltelepítésre:
+install
+-----------------------------
+
+up to date, audited 472 packages in 3s
+
+73 packages are looking for funding
+  run `npm fund` for details
+
+found [32m[1m0[22m[39m vulnerabilities
+-----------------------------
+A következő parancs fog lefutni:
+build
+-----------------------------
+Unknown command: "build"
+
+
+Did you mean this?
+  npm run build # run the "build" package script
+To see a list of supported npm commands, run:
+  npm help
+[1G[0K
+up to date, audited 472 packages in 2s
+
+73 packages are looking for funding
+  run `npm fund` for details
+
+found [32m[1m0[22m[39m vulnerabilities
+[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K|[1G[0K/[1G[0K
+up to date, audited 472 packages in 26s
+[1G[0K/[1G[0K
+[1G[0K/[1G[0K73 packages are looking for funding
+[1G[0K/[1G[0K  run `npm fund` for details
+[1G[0K/[1G[0K
+found [32m[1m0[22m[39m vulnerabilities
+[1G[0K/[1G[0K
+-----------------------------
+package.json fájl telepítése
+-----------------------------
+[1G[0K\[1G[0K|[1G[0K/[1G[0K-[1G[0K\[1G[0K
+up to date, audited 472 packages in 1s
+[1G[0K\[1G[0K
+[1G[0K\[1G[0K73 packages are looking for funding
+[1G[0K\[1G[0K  run `npm fund` for details
+[1G[0K\[1G[0K
+found [32m[1m0[22m[39m vulnerabilities
+[1G[0K\[1G[0Ksed: can't read node: No such file or directory
+sed: can't read .output/server/index.mjs: No such file or directory
+sed: can't read node: No such file or directory
+sed: can't read .output/server/index.mjs: No such file or directory
+NODEJS verzió:
+v24.5.0
+--|--
+:/home/container$ node /home/container/${START_PRM}
+node:internal/modules/cjs/loader:1413
+  throw err;
+  ^
+
+Error: Cannot find module '/home/container/node'
+[90m    at Module._resolveFilename (node:internal/modules/cjs/loader:1410:15)[39m
+[90m    at defaultResolveImpl (node:internal/modules/cjs/loader:1051:19)[39m
+[90m    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1056:22)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1219:37)[39m
+[90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[90m    at wrapModuleLoad (node:internal/modules/cjs/loader:238:24)[39m
+[90m    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)[39m
+[90m    at node:internal/main/run_main_module:33:47[39m {
+  code: [32m'MODULE_NOT_FOUND'[39m,
+  requireStack: []
+}
+
+Node.js v24.5.0
